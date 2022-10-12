@@ -22,3 +22,5 @@ xpath_anonymous---爬取代理的匿名性的xpath
         "xpath_country": "td[5]/text()",
         "xpath_anonymous": "td[3]/text()"
     }
+    
+    将IP保存mongodb
